@@ -10,6 +10,8 @@ info: |
 drawings:
   persist: false
 css: unocss
+controls: true
+controlsLayout: 'bottom'
 ---
 
 # Staying in Customer Support

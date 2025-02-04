@@ -2,6 +2,10 @@
   command = "npm run build"
   publish = "dist"
 
+[build.environment]
+  NODE_VERSION = "16"
+  SLIDEV_CONTROLS = "true"
+
 [[redirects]]
   from = "/*"
   to = "/index.html"
