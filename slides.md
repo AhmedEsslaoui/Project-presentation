@@ -10,8 +10,6 @@ info: |
 drawings:
   persist: false
 css: unocss
-controls: true
-controlsLayout: 'bottom'
 ---
 
 # Staying in Customer Support
@@ -45,7 +43,7 @@ layout: intro
   <div>
     <div class="text-3xl font-bold mb-4 bg-gradient-to-r from-blue-500 to-teal-500 bg-clip-text text-transparent">Purpose</div>
     <p class="text-lg leading-relaxed">
-      Explain why I want to continue in customer support rather than transition to the product team.
+      Explain why I want to continue growing and developing in customer support rather than moving somewhere else.
     </p>
   </div>
 </div>
@@ -99,7 +97,10 @@ background: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=1
 class: 'text-white'
 ---
 
-# Impact in Customer Support
+<div class="flex items-baseline gap-3">
+  <h1>Impact in Customer Support</h1>
+  <a href="https://docs.google.com/spreadsheets/d/1ygWu2SeNmH4kD6MVQAmSlRwDPqXrFhb4_SQybnpgfVg/edit?usp=sharing" target="_blank" class="text-blue-300 hover:text-blue-200 text-sm">(See example projects)</a>
+</div>
 
 <div class="grid grid-cols-3 gap-8 mt-12">
   <div class="relative group">
@@ -136,7 +137,7 @@ background: 'https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=29
 class: 'text-white'
 ---
 
-# Why Not Product Development?
+# Why Not Somewhere Else?
 
 <div class="grid grid-cols-3 gap-8 mt-12">
   <div class="relative group">
@@ -203,13 +204,13 @@ class: 'text-white'
 
 # The Most Important Reason & Final Thoughts
 
-<div class="grid grid-cols-1 gap-8 mt-8">
+<div class="grid grid-cols-1 gap-8">
   <div class="relative group">
     <div class="absolute inset-0 bg-gradient-to-br from-blue-600/90 to-blue-800/90 rounded-xl"></div>
     <div class="relative p-6 rounded-xl">
       <h3 class="text-2xl font-bold mb-4">Great Management Makes the Difference</h3>
       <p class="text-blue-100 text-lg leading-relaxed">
-        I shine through great management— a manager that helps you grow, a manager that helps you shine, a manager that supports ideas that sometimes seem crazy and allows you to think outside the box and consider other angles. This is my Guiding/Superstar Assem Al Shamileh.
+        I thrive in a work environment where innovative ideas are encouraged and continuous growth is a priority. The combined support of engaged leadership and collaborative colleagues provides a balanced foundation that inspires me to consistently excel and evolve in my role. In particular, I deeply appreciate the mentorship of a leader who has been a guiding force throughout my journey—Assem Al Shamileh, whose quiet yet impactful leadership continually fuels my professional development.
       </p>
     </div>
   </div>
