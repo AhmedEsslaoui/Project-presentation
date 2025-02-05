@@ -208,7 +208,7 @@ class: 'text-white'
   <div class="relative group">
     <div class="absolute inset-0 bg-gradient-to-br from-blue-600/90 to-blue-800/90 rounded-xl"></div>
     <div class="relative p-6 rounded-xl">
-      <h3 class="text-2xl font-bold mb-4">Great Management Makes the Difference</h3>
+      <h3 class="text-2xl font-bold mb-4">Great environment and Management Makes the Difference</h3>
       <p class="text-blue-100 text-lg leading-relaxed">
         I thrive in a work environment where innovative ideas are encouraged and continuous growth is a priority. The combined support of engaged leadership and collaborative colleagues provides a balanced foundation that inspires me to consistently excel and evolve in my role. In particular, I deeply appreciate the mentorship of a leader who has been a guiding force throughout my journey—Assem Al Shamileh, whose quiet yet impactful leadership continually fuels my professional development.
       </p>
