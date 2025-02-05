@@ -108,7 +108,7 @@ class: 'text-white'
     <div class="relative p-6 rounded-xl">
       <carbon:rocket class="text-5xl mb-4 text-blue-200" />
       <h3 class="text-2xl font-bold mb-4">Enhancing Efficiency</h3>
-      <p class="text-blue-100">Using my technical skills, I can automate tasks, improve workflows, and provide tools to make the support team more effective.</p>
+      <p class="text-blue-100">Using my technical skills to automate tasks and improve workflows. For example, our Refund automation project reduced processing time from 1 hour per 20 orders to just 18 minutes, significantly improving team efficiency.</p>
     </div>
   </div>
 
